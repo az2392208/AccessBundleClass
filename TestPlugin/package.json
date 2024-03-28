@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.testtools.codecoverage",
+  "displayName": "Code Coverage",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "unityRelease": "0a8",
+  "description": "Use this package to export code coverage data and reports from your automated tests. Additionally, the Code Coverage package offers a Coverage Recording feature which allows capturing coverage data on demand, for manual testing or when there are no automated tests in the project.",
+  "keywords": [
+    "test",
+    "coverage",
+    "testing",
+    "opencover"
+  ]
+}
